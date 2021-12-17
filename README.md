@@ -6,12 +6,12 @@ You'll need to have node.js installed in the machine. Git Bash is suggested as a
 - Navigate to this folder through git bash.
 - Now in git bash terminal run the following command:
 ```sh
-git clone https://github.com/shaad82663/id-generator
+git clone https://github.com/adityasingh255/Avtaar-Aditya/edit/main/
 ```
 
 - Navigate to the project folder by running following command in terminal:
 ```sh
-cd id-generator/
+cd Avtaar-Aditya/
 ```
 
 - Run the following command to install the node.js packages
@@ -25,11 +25,11 @@ node index.js
 ```
 
 - The ouput in the termnal will be :
->Running server over loalhost:3000
+>Server running over localhost: 2000
 
 - Now open browser and type following url in URL tab
 ```sh
-http://localhost:3000/
+http://localhost:2000/
 ```
 
 -Now you can interact with web page according to UI.
@@ -52,5 +52,5 @@ node index.js
 ```
 
 ## Output
-[Output-1](https://res.cloudinary.com/shaad82663/image/upload/v1636520802/Avtaar-Internship-Assisnments/OP-1_ewrpit.png)
-[Output-2](https://res.cloudinary.com/shaad82663/image/upload/v1636520803/Avtaar-Internship-Assisnments/OP-2_wjuyp6.png)
+[Output-1](https://drive.google.com/file/d/1uwA2Ep5wkdCUGcadOTsuvhmdJh-lRsYC/view?usp=sharing)
+[Output-2](https://drive.google.com/file/d/1zI7zZ09RSa2oqlR1bLZcbulPCg7paIwI/view?usp=sharing)
